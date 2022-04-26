@@ -1,0 +1,19 @@
+[
+    {
+        "name": "limón",
+        "price": 5,
+        "image": "https://t2.uc.ltmcdn.com/es/posts/3/1/0/como_hacer_tarta_de_queso_philadelphia_52013_600_square.jpg"
+    },
+    {
+        "name": "queso",
+        "price": 3,
+        "company": "Esequesite SL",
+        "image":"https://www.dulcespostres.com/wp-content/uploads/2014/10/tarta-de-limon-fria-3.jpg"
+    },
+    {
+        "name": "chocolate",
+        "price": 4,
+        "company": "Sargento del Queso SA",
+        "image":"https://i.blogs.es/4c1903/tarta-de-chocolate-facil-y-rapida/840_560.jpg"
+    }
+]
